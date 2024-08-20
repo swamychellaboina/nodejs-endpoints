@@ -1,0 +1,24 @@
+{
+  "name": "job",
+  "version": "1.0.0",
+  "description": "jobdetails",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowmyabethina/Endpoints-nodejs.git"
+  },
+  "author": "sowmya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sowmyabethina/Endpoints-nodejs/issues"
+  },
+  "homepage": "https://github.com/sowmyabethina/Endpoints-nodejs#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
